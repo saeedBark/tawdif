@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585014182782",
+    "project_id": "jobs-65a1b",
+    "storage_bucket": "jobs-65a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585014182782:android:20b00f8a7eb6c115e2e92f",
+        "android_client_info": {
+          "package_name": "com.example.jobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585014182782-81qguaplhhmagupom3gklhp9qterjocb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP83nZEoTPOHEbmUJFbml35lHkis6WFto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585014182782-81qguaplhhmagupom3gklhp9qterjocb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
